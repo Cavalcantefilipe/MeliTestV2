@@ -276,5 +276,17 @@
         "Com impacto positivo": "Sim"
       }
     }
+  },
+  "0d9e7552-8ed0-4cee-89d7-ebba2871bdda": {
+    "id": "0d9e7552-8ed0-4cee-89d7-ebba2871bdda",
+    "name": "Test Product",
+    "price": 99.99,
+    "categoryId": "ca080624-3d5c-4a03-a522-47a73a26a707",
+    "sellerId": "24c10856-47a3-42ff-9da1-0ea636c33032",
+    "description": "A test product",
+    "quantity": 10,
+    "sales": 0,
+    "condition": "Novo",
+    "images": []
   }
 }
