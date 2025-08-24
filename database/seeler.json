@@ -33,5 +33,12 @@
     "email": "contato@sakura.com.br",
     "phone": "+5511955555555",
     "sales": 2000
+  },
+  "24c10856-47a3-42ff-9da1-0ea636c33032": {
+    "id": "24c10856-47a3-42ff-9da1-0ea636c33032",
+    "name": "Test Store",
+    "email": "test@example.com",
+    "phone": "+5511123456789",
+    "sales": 0
   }
 }
